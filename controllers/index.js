@@ -19,6 +19,7 @@ module.exports = function (router) {
 			var model = {
 				products: prods
 			};
+			console.log("model !!!", model);
 			res.render('index', model);
 		});
 

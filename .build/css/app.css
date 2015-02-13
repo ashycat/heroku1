@@ -4,26 +4,26 @@
     A set of useful LESS mixins
     More info at: http://lesselements.com
   ---------------------------------------------------*/
-/* line 3, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 3, E:\111\css\app */
 .nm-np {
   margin: 0;
   padding: 0;
 }
-/* line 8, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 8, E:\111\css\app */
 .grey {
   background-color: rgba(0, 0, 0, 0.25);
 }
-/* line 12, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 12, E:\111\css\app */
 ul.inline li {
   display: inline-block;
 }
-/* line 16, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 16, E:\111\css\app */
 body {
   background-color: #263C81;
   color: #F2F2F2;
   font-family: "helvetica neue", "arial", "sans";
 }
-/* line 22, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 22, E:\111\css\app */
 header {
   margin: .5em 0;
   padding: 0 0 .5em 0;
@@ -31,42 +31,42 @@ header {
   -moz-box-shadow: 0 0 3px rgba(255, 255, 255, 0.5);
   box-shadow: 0 0 3px rgba(255, 255, 255, 0.5);
 }
-/* line 28, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 28, E:\111\css\app */
 header h1 {
   margin: 0;
   padding: .25em 0;
   font-size: 1.75em;
 }
-/* line 35, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 35, E:\111\css\app */
 nav li {
   margin-right: 2em;
 }
-/* line 39, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 39, E:\111\css\app */
 .lang {
   float: right;
   margin: -50px 0;
 }
-/* line 44, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 44, E:\111\css\app */
 .lang * {
   display: inline-block;
   margin-left: .25em;
 }
-/* line 49, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 49, E:\111\css\app */
 a {
   text-decoration: none;
   color: #00abd5;
 }
-/* line 54, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 54, E:\111\css\app */
 a:hover {
   text-decoration: underline;
 }
-/* line 58, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 58, E:\111\css\app */
 .wrapper {
   max-width: 980px;
   padding: 0 1em;
   margin: 0 auto;
 }
-/* line 64, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 64, E:\111\css\app */
 .products li {
   background-color: rgba(255, 255, 255, 0.15);
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
@@ -78,16 +78,16 @@ a:hover {
   -moz-border-radius: 5px;
   border-radius: 5px;
 }
-/* line 72, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 72, E:\111\css\app */
 .tiny {
   font-size: .75em;
   font-weight: lighter;
 }
-/* line 77, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 77, E:\111\css\app */
 .mb2 {
   margin-bottom: 2em;
 }
-/* line 81, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 81, E:\111\css\app */
 #tentacle {
   position: absolute;
   height: 415px;
@@ -100,7 +100,7 @@ a:hover {
   z-index: -1;
 }
 /*CC Checkout*/
-/* line 94, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 94, E:\111\css\app */
 .ccForm {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -108,7 +108,7 @@ a:hover {
   background-color: #ccc;
   display: inline-block;
 }
-/* line 101, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 101, E:\111\css\app */
 .ccForm h3 {
   -webkit-border-top-right-radius: 5px;
   -webkit-border-bottom-right-radius: 0;
@@ -129,25 +129,25 @@ a:hover {
   margin: 0;
   padding: .25em 1em;
 }
-/* line 108, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 108, E:\111\css\app */
 .ccForm fieldset {
   padding: 1em;
   border: none;
 }
-/* line 114, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 114, E:\111\css\app */
 :-moz-placeholder {
   color: #cccccc !important;
 }
-/* line 118, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 118, E:\111\css\app */
 ::-moz-placeholder {
   color: #cccccc !important;
   opacity: 1;
 }
-/* line 123, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 123, E:\111\css\app */
 ::-webkit-input-placeholder {
   color: #cccccc;
 }
-/* line 127, E:\kraken-examples-master\kraken-examples-master\with.shoppingcart\css\app */
+/* line 127, E:\111\css\app */
 :-ms-input-placeholder {
   color: #cccccc;
 }
